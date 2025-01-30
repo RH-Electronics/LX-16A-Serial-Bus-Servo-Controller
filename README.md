@@ -7,7 +7,8 @@ https://www.hiwonder.com/products/serial-bus-servo-controller
 https://www.hiwonder.com/products/lx-16a
 
 ###
-LSCSerial.h and LSCSerial.cpp written by Airis
+LSCSerial.h and LSCSerial.cpp written by Airis 
+###
 Debugged and tested on 3 Servos.
 
 
