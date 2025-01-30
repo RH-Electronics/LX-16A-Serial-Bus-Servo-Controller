@@ -35,7 +35,7 @@ Include the library in your project:
 - **TX (Teensy/Arduino) → RX (Hiwonder Controller)**
 - **RX (Teensy/Arduino) → TX (Hiwonder Controller)**
 - **GND → GND**
-- **Servo Power via Controller (7.4V - 8.4V recommended)**
+- **Servo Power via Controller (6.0V - 8.4V)**
 
 ## Usage
 ### Initialize the Controller
