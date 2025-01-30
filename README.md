@@ -4,7 +4,7 @@ https://www.hiwonder.com/products/serial-bus-servo-controller
 https://www.hiwonder.com/products/lx-16a
 
 ## Overview
-This library allows communication with LX-16A serial bus servos using an Arduino-compatible microcontroller like Teensy. It provides functions for controlling individual and multiple servos, reading servo positions, checking battery voltage, and unloading servos.
+This library allows communication with LX-16A serial bus servos using Hiwonder Serial Bus Servo Controller and Arduino-compatible microcontroller like Teensy. It provides functions for controlling individual and multiple servos, reading servo positions, checking battery voltage, and unloading servos.
 
 Tested with 3 servos on a serial bus.
 
