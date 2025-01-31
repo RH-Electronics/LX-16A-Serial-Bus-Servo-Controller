@@ -36,6 +36,9 @@ Include the library in your project:
 - **GND → GND**
 - **Servo Power via Controller (6.0V - 8.4V)**
 
+Hiwonder controller RX/TX is 3.3V level. The board has UART connector GND-TX-RX-5V, where 5V is an optional output pin to power Arduino board.
+LX16-A Servos uses half-duplex UART asynchronous serial interface where SIG pin is the same pin for TX and RX on 5264-3P connector. Contoller board includes 74HC126 and a micro to manage 115200 communication with the servos according to the LX-16A protocol.
+
 ## Usage
 ### Initialize the Controller
 ```cpp
