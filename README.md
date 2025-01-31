@@ -88,9 +88,9 @@ servoController.unloadServos(2, ids);
 - Ensure proper baud rate settings for Teensy UART (default: 9600 baud).
 - If multiple servos are connected, check the power supply current output is sufficient.
 
-## Author
-**Library made by Airis**
-Debugged and tested by Alex **RH Electronics**.
+## Authors
+- **Library made by [Airis](https://static.wixstatic.com/media/e43988_90b2957681f44ae6982181c0cf52bb7a~mv2.jpg)**
+- Debugged and tested by Alex **RH Electronics**.
 
 
 
