@@ -21,11 +21,10 @@ Tested with 3 servos on a serial bus.
 - Hiwonder Serial Bus Servo Controller
 - UART connection (TX/RX)
 
+## Controller
+<img src="https://github.com/RH-Electronics/LX-16A-Serial-Bus-Servo-Controller/blob/main/hiwonder-serial-bus-controller.jpg" alt="Hiwonder Serial Bus Controller">
+
 ## Installation
-Clone the repository:
-```sh
-git clone https://github.com/RH-Electronics/LX-16A-Serial-Bus-Servo-Controller.git
-```
 Include the library in your project:
 ```cpp
 #include "LSCSerial.h"
