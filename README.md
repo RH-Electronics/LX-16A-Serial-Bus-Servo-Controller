@@ -85,9 +85,6 @@ servoController.unloadServos(2, ids);
 - Ensure proper baud rate settings (default: 9600 baud).
 - If multiple servos are connected, use external power (7.4V+).
 
-## License
-MIT License
-
 ## Author
 **Library made by Airis**
 Debugged and tested by Alex **RH Electronics**.
