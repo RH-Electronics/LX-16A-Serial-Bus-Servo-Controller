@@ -82,8 +82,8 @@ servoController.unloadServos(2, ids);
 
 ## Notes
 - The servo ID must be set before use.
-- Ensure proper baud rate settings (default: 9600 baud).
-- If multiple servos are connected, use external power (7.4V+).
+- Ensure proper baud rate settings for Teensy UART (default: 9600 baud).
+- If multiple servos are connected, check the power supply current output is sufficient.
 
 ## Author
 **Library made by Airis**
